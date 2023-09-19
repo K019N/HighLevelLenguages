@@ -1,0 +1,39 @@
+----1 test----
+Enter
+123
+123
+
+Out
+Strings are equal
+
+----2 test----
+Enter
+123
+1234
+
+Out
+Strings aren't equal
+
+----3 test----
+Enter
+c++
+c++
+
+Out
+Strings are equal
+
+----4 test----
+asdfgh
+qwerty
+123
+
+Out
+Strings aren't equal
+
+----5 test----
+Enter
+арбуз
+арбуз
+
+Out
+Strings are equal
